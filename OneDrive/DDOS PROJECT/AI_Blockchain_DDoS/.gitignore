@@ -16,4 +16,22 @@ AppData/
 *.zip
 *.exe
 *.iso
+# Ignore system files
+.VirtualBox/
+.anaconda/
+.cache/
+.vscode/
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+NTUSER.DAT*
+Pictures/
+Saved Games/
+Searches/
+Videos/
 
